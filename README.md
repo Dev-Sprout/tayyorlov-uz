@@ -69,3 +69,5 @@ Platformaning asosiy maqsadi – odamlarga ma'lum bir shaharda yoki institutda m
 8.  **📱 Mobil ilova (kelajakda):** Loyihaning keyingi bosqichlarida iOS va Android ilovalarini yaratish imkoniyati.
 
 ---
+
+"Gemini"
