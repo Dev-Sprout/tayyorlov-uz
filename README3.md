@@ -1,7 +1,5 @@
 # Tayyorlov.uz - Oʻquv Kurslari Platformasi
 
-![Tayyorlov.uz Mockup](https://via.placeholder.com/800x400?text=Tayyorlov.uz+Platform+Mockup)
-
 ## 📌 Kirish
 
 Tayyorlov.uz - Oʻzbekistondagi barcha tayyorlov kurslari va oʻquv markazlarini bitta platformada jamlovchi innovatsion yechim. Platforma oʻquvchilar va kurs provayderlari oʻrtasida samarali aloqa kanali yaratadi.
@@ -156,4 +154,4 @@ Loyiha haqida qoʻshimcha maʼlumot uchun:
 
 ---
 
--DeepSeek
+## DeepSeek
