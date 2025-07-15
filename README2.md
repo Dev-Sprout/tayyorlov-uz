@@ -108,4 +108,4 @@ Agar siz ham bu loyihaga hissa qo‘shmoqchi bo‘lsangiz yoki hamkorlikni istas
 
 MIT
 
-"CHatGPT"
+With **CHatGPT**
