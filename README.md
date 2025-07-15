@@ -1,112 +1,81 @@
 # tayyorlov-uz
+Tayyorlov.uz loyihasi
+🎯 Loyiha haqida
+Tayyorlov.uz – bu O'zbekiston bo'ylab faoliyat yurituvchi tayyorlov kurslari, o'quv markazlari va oliy ta'lim muassasalaridagi ichki kurslar haqida to'liq ma'lumotlar taqdim etuvchi, interaktiv va baholash tizimiga ega bo'lgan zamonaviy veb platforma.
 
-Tayyorlov.uz loyihasi: Keng qamrovli kurslar platformasi
-Loyiha haqida
-Tayyorlov.uz – Oʻzbekiston boʻylab faoliyat yurituvchi tayyorlov kurslari, oʻquv markazlari va oliy taʼlim muassasalaridagi ichki kurslar haqida toʻliq maʼlumotlar taqdim etuvchi, interaktiv va baholash tizimiga ega boʻlgan zamonaviy veb platformadir.
+💡 Asosiy g'oya
+Platformaning asosiy maqsadi – odamlarga ma'lum bir shaharda yoki institutda mavjud bo'lgan tayyorlov kurslarini bir joyda ko'rish, ularning narxi, manzili, davomiyligi, yo'nalishi, talab qilinadigan shartlari va sharhlarini oson qidirish va solishtirish imkoniyatini yaratish.
 
-Loyiha maqsadi – oʻquvchilar va kurs tashkilotchilarini bogʻlovchi, shaffof, ochiq va zamonaviy maydon yaratish. Bu esa oʻquvchilar orasida ishonchli kurslarni topish, kurslar orasida sogʻlom raqobatni oshirish hamda soxta kurslar va aldovlarning oldini olishga xizmat qiladi.
+🚀 Maqsad
+Tayyorlov.uz – O'zbekistondagi o'quvchilar va kurs tashkilotchilarini bog'lovchi, shaffof, ochiq va zamonaviy platforma. Loyiha o'quvchilar orasida ishonchli kurslarni topish, kurslar orasida raqobatni oshirish hamda soxta kurslar va aldovlarning oldini olishga qaratilgan.
 
-Asosiy gʻoya
-Odamlar maʼlum bir shahar yoki institutda mavjud boʻlgan tayyorlov kurslarini bir joyda koʻrish, ularning narxi, manzili, davomiyligi, yoʻnalishi, talab qilinadigan shartlari va sharhlarini oson qidirish va solishtirish imkoniyatiga ega boʻlishadi.
+🔑 Asosiy funksiyalar
+🔍 Kurslar katalogi:
 
-Asosiy funksiyalar
-Kurslar katalogi:
+Kurs nomi, manzili, narxi, davomiyligi, o'qituvchi haqida to'liq ma'lumotlar.
 
-Kurs nomi, manzili, narxi, davomiyligi, oʻqituvchi haqida maʼlumotlar.
+Foydalanuvchi o'zi yashaydigan hududga qarab kurslarni filtrlay oladi.
 
-Foydalanuvchilar oʻz hududlariga qarab kurslarni filtrlay olishadi.
+🧾 Baholash tizimi:
 
-Baholash tizimi:
+Faqat ro'yxatdan o'tgan va kurs egasi yoki admin tomonidan tasdiqlangan foydalanuvchilar kurslarga baho berishlari mumkin.
 
-Faqat roʻyxatdan oʻtgan va kurs egasi yoki admin tomonidan tasdiqlangan foydalanuvchilar kurslarga baho bera oladilar.
+Baholarning ball ko'rinmasligi, faqat sharh ko'rsatiladi (xolislikni ta'minlash uchun).
 
-Baholar ball koʻrinishida emas, faqat sharh koʻrinishida koʻrsatiladi (xolislikni taʼminlash maqsadida).
+👤 Foydalanuvchi rejimi:
 
-Foydalanuvchi rejimi:
+Kurslarni akkauntsiz ham ko'rish mumkin.
 
-Kurslarni akkauntsiz ham koʻrish mumkin.
+Lekin kurs egasi bilan bog'lanish, sharh qoldirish yoki kurs yaratish faqat akkaunt orqali bo'ladi.
 
-Kurs egasi bilan bogʻlanish, sharh qoldirish yoki kurs yaratish faqat akkaunt orqali amalga oshiriladi.
+🛠 Kurs egasi paneli:
 
-Kurs egasi paneli:
+Kurs egasi ro'yxatdan o'tadi va o'z kursini yaratadi.
 
-Kurs egalari roʻyxatdan oʻtadilar va oʻz kurslarini yaratadilar.
+Har bir foydalanuvchini tasdiqlaydi yoki rad etadi.
 
-Har bir foydalanuvchini tasdiqlash yoki rad etish imkoniyati.
+Kurslarini tahrirlashi, yangilashi, o'chirishi mumkin.
 
-Kurslarini tahrirlash, yangilash va oʻchirish imkoniyati.
+📱 Telegram bot + mini-app:
 
-Telegram bot + mini-app integratsiyasi:
+Bot orqali yangi kurslar haqida bildirishnomalar.
 
-Bot orqali yangi kurslar haqida bildirishnomalar yuborish.
+Kursga yozilish, bog'lanish, mini-veb ilovaga o'tish imkoniyati.
 
-Kursga yozilish, bogʻlanish va mini-veb ilovaga oʻtish imkoniyati.
+Telegram WebApp orqali kurslar katalogini to'g'ridan-to'g'ri botdan ko'rish.
 
-Telegram WebApp orqali kurslar katalogini toʻgʻridan-toʻgʻri botdan koʻrish.
+🌐 Domen va Joylashtirish:
 
-Domen va joylashtirish:
-
-Domen: tayyorlov.uz – mustaqil, professional veb-sayt.
+Domen: tayyorlov.uz – mustaqil, professional sayt.
 
 Server: VPS serverda joylashtiriladi (masalan, Cloud.uz).
 
-Frontend va Backend toʻliq nazorat ostida boʻladi.
+Frontend va Backend to'liq o'z boshqaruvimizda.
 
-Kuchli jihatlar
+💪 Kuchli jihatlar
 Xolis baholash: Faqat tasdiqlangan foydalanuvchilardan sharhlar qabul qilinadi.
 
-Maxsus ichki tizimlar: Oliy taʼlim muassasalaridagi (masalan, TTAdagi) ichki kurslarni ham joylashtirish imkoniyati.
+Maxsus ichki tizimlar: TTAdagi (va shunga o'xshash muassasalardagi) ichki kurslarni ham joylashtirish imkoniyati.
 
-Oʻquvchilar uchun qulay interfeys: Samarali filtr, izlash funksiyalari mavjud.
+O'quvchilar uchun qulay interfeys: Samarali filtr, izlash funksiyalari mavjud.
 
 Kurs egalariga maxsus boshqaruv paneli: Kurslarni samarali boshqarish uchun keng imkoniyatlar.
 
-Telegram orqali integratsiya: Keng auditoriyaga yetib borish va foydalanuvchi bilan doimiy aloqada boʻlish.
+Telegram orqali integratsiya: Keng auditoriyaga yetib borish va foydalanuvchi bilan doimiy aloqada bo'lish.
 
-Qoʻshimcha taklif qilingan funksiyalar
-Oʻqituvchilar profillari va reyting tizimi:
+✨ Taklif qilingan qo'shimcha funksiyalar
+🧑‍🏫 O'qituvchilar profillari va reyting tizimi: Har bir o'qituvchi uchun alohida profil yaratish (tajriba, malaka, yutuqlar) va o'quvchilar tomonidan o'qituvchilarni baholash imkoniyati.
 
-Har bir oʻqituvchi uchun alohida profil yaratish (tajriba, malaka, yutuqlar).
+⭐ "Sevimlilar" va "Solishtirish" funksiyasi: Foydalanuvchilar o'zlariga yoqqan kurslarni "Sevimlilar" ro'yxatiga qo'shishlari va bir nechta kursni yonma-yon solishtirishlari mumkin.
 
-Oʻquvchilar tomonidan oʻqituvchilarni baholash va sharh qoldirish imkoniyati.
+▶️ Video kontentni qo'llab-quvvatlash: Kurs egalari o'z kurslari yoki markazlari haqida qisqa tanishtiruv videolarni yuklashi yoki YouTube/Vimeo orqali joylashtirishi mumkin.
 
-"Sevimlilar" roʻyxati va "Solishtirish" funksiyasi:
+❓ "Tez-tez beriladigan savollar" (FAQ): Har bir kurs sahifasida va umumiy platformada savol-javob bo'limlari.
 
-Foydalanuvchilar oʻzlariga yoqqan kurslarni "Sevimlilar" roʻyxatiga qoʻshishlari mumkin.
+📊 Statistika va tahlil paneli (Kurs egalari uchun): Kurs sahifasini ko'rishlar soni, murojaatlar soni va sharhlar tahlili kabi statistik ma'lumotlar.
 
-2-3 ta kursni tanlab, ularning xususiyatlarini yonma-yon solishtirish imkoniyati.
+💬 Onlayn suhbat (Chat) yoki Murojaat formasi: Foydalanuvchi va kurs egasi o'rtasida platforma ichida shaxsiy suhbatlashish yoki bevosita murojaat qilish imkoniyati.
 
-Video kontentni qoʻllab-quvvatlash:
+📚 Blog/Maqolalar bo'limi: Ta'lim sohasiga oid foydali maqolalar, yangiliklar va maslahatlar.
 
-Kurs egalari oʻz kurslari haqida qisqa tanishtiruv videolarini yuklashi mumkin.
-
-YouTube/Vimeo integratsiyasi orqali videolarni joylashtirish.
-
-"Tez-tez beriladigan savollar" (FAQ) boʻlimi:
-
-Har bir kurs sahifasida kursga oid FAQ boʻlimi.
-
-Platformaning umumiy foydalanishi boʻyicha umumiy FAQ boʻlimi.
-
-Statistika va tahlil paneli (Kurs egalari uchun):
-
-Kurs sahifasini koʻrishlar soni, murojaatlar soni statistikasi.
-
-Sharhlar tahlili va eng mashhur kurslar statistikasi.
-
-Onlayn suhbat (Chat) yoki Murojaat formasi:
-
-Foydalanuvchi va kurs egasi oʻrtasida platforma ichida shaxsiy suhbatlashish.
-
-Kurs egasiga bevosita murojaat qilish uchun forma.
-
-Blog/Maqolalar boʻlimi:
-
-Taʼlim sohasiga oid foydali maqolalar, yangiliklar va maslahatlar.
-
-Kurs egalari uchun kurslarni samarali boshqarish boʻyicha maslahatlar.
-
-Mobil ilova (kelajakda):
-
-Platformaning toʻliq funksionalligiga ega iOS va Android ilovalarini yaratish imkoniyati.
-
+📱 Mobil ilova (kelajakda): Loyihaning keyingi bosqichlarida iOS va Android ilovalarini yaratish imkoniyati.
