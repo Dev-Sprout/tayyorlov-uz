@@ -154,4 +154,4 @@ Loyiha haqida qoʻshimcha maʼlumot uchun:
 
 ---
 
-## DeepSeek
+With ## DeepSeek
