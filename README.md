@@ -70,4 +70,4 @@ Platformaning asosiy maqsadi – odamlarga ma'lum bir shaharda yoki institutda m
 
 ---
 
-"Gemini"
+With --**Gemini**--
